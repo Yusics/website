@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "National Taiwan University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait_1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "b03202047@ntu.edu.tw"
   address = ""
   office_hours = ""
@@ -207,10 +207,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:b03202047@ntu.edu.tw"
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fa"
-  #  link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/yusiang.wang.14"
 
   [[params.social]]
     icon = "google-scholar"
@@ -238,7 +238,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]

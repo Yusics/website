@@ -28,8 +28,9 @@ weight = 5
  
 +++
 
-# Biography
+# About Me
+I'm a senior student of Physics in National Taiwan University. My current research focuses on Natural Language Processing and Computer Vision, especially their intersection. In 2017 summer, I spent wonderful time in John Hopkins University as a visiting student and advised by [Bloomberg Distinguished Professor](https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships) [Alan Yuille](http://www.cs.jhu.edu/~ayuille/) in [Computational Cognition, Vision, and Learning](http://ccvl.jhu.edu/) Lab. 
 
-Yu-Siang Wang is a very handsome researcher.
+I currently work on research related to Scene Graph on Image space and Language space to improve the interpretability in deep learning. Here's my [Google Scholar](https://scholar.google.co.uk/citations?user=89kHyuEAAAAJ&hl=zh-TW) and my [CV](https://drive.google.com/open?id=1grRWteGtdLkVynUVY4OLJlKJWneEiKdI).
 
 

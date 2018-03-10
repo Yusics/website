@@ -3,7 +3,7 @@ title = "Adversarial attack beyond image space"
 date = "2017-11-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xiaohui Zeng", "Chenxi Liu", "***Yu-Siang Wang***", "Weichao Qiu", "Lingxi Xie", "Yu-Wing Tai", "Chi Keung Tang", "Alan L. Yuille"]
+authors = ["Xiaohui Zeng", "Chenxi Liu", "**Yu-Siang Wang**", "Weichao Qiu", "Lingxi Xie", "Yu-Wing Tai", "Chi Keung Tang", "Alan L. Yuille"]
 
 # Publication type.
 # Legend:

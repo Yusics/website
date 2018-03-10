@@ -1,9 +1,9 @@
 +++
-title = "A Novel Chest Compression Depth Estimation Algorithm Based on a Smartwatch for High-Quality Cardiopulmonary Resuscitation"
-date = "2017-11-14"
+title = "Adversarial attack beyond image space"
+date = "2018-02-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Tsung-Chien Lu", "Yi Chen", "Te-Wei Ho", "Yao-Ting Chang", "Yi-Ting Lee", "**Yu-Siang Wang**", "Yen-Pin Chen", "Chia-Ming Fu", "Wen-Chu Chiang", "Matthew Huei-Ming Ma", "Cheng-Chung Fang", "Feipei Lai, Anne M Turner"]
+authors = ["**Yu-Siang Wang**", "Chenxi Liu", "Xiaohui Zeng", "Alan L. Yuille"]
 
 # Publication type.
 # Legend:
@@ -14,11 +14,11 @@ authors = ["Tsung-Chien Lu", "Yi Chen", "Te-Wei Ho", "Yao-Ting Chang", "Yi-Ting 
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "American Heart Association, Inc."
-publication_short = "In *AHA*"
+publication = ""
+publication_short = "*NAACL (Oral)*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -36,9 +36,9 @@ selected = true
 #   projects = [""]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "http://circ.ahajournals.org/content/136/Suppl_1/A19868.short"
-url_code = ""
+url_pdf = "https://drive.google.com/open?id=1S6dVTouxZ36KTsvBXobBIRyxLcjjSYy-"
+url_preprint = ""
+url_code = "https://github.com/Yusics/bist-parser/tree/sgparser"
 url_dataset = ""
 url_project = ""
 url_slides = ""

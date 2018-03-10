@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am a teaching assistant for the following course at National Taiwan University:
+I am a teaching assistant for the following courses at National Taiwan University:
 
 - CSIE5431 : Applied Deep Learning 
 - CommE5045: Machine Learning and Having It Deep and Structured 

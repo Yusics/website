@@ -3,7 +3,7 @@ title = "Leveraging Linguistic Structures for Named Entity Recognition with Bidi
 date = "2017-09-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Peng-Hsuan Li", "Ruo-Ping Dong", "***Yu-Siang Wang***", "Ju-Chieh Chou", "Wei-Yun Ma"]
+authors = ["Peng-Hsuan Li", "Ruo-Ping Dong", "**Yu-Siang Wang**", "Ju-Chieh Chou", "Wei-Yun Ma"]
 
 # Publication type.
 # Legend:

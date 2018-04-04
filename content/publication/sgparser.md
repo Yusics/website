@@ -36,8 +36,8 @@ selected = true
 #   projects = [""]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/open?id=1S6dVTouxZ36KTsvBXobBIRyxLcjjSYy-"
-url_preprint = ""
+url_pdf = "https://arxiv.org/pdf/1803.09189.pdf"
+url_preprint = "https://arxiv.org/abs/1803.09189"
 url_code = "https://github.com/Yusics/bist-parser/tree/sgparser"
 url_dataset = ""
 url_project = ""

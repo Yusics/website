@@ -1,6 +1,6 @@
 +++
 title = "Scene Graph Parsing as Dependency Parsing"
-date = "2018-02-14"
+date = "2018"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Yu-Siang Wang**", "Chenxi Liu", "Xiaohui Zeng", "Alan L. Yuille"]
@@ -36,7 +36,7 @@ selected = true
 #   projects = [""]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1803.09189.pdf"
+url_pdf = "https://www.aclweb.org/anthology/N18-1037.pdf"
 url_preprint = "https://arxiv.org/abs/1803.09189"
 url_code = "https://github.com/Yusics/bist-parser/tree/sgparser"
 url_dataset = ""

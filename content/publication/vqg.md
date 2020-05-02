@@ -1,9 +1,9 @@
 +++
-title = "Adversarial attack beyond image space"
-date = "2019"
+title = "Video Question Generation via Cross-Modal Self-Attention Networks Learning"
+date = "2020"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xiaohui Zeng", "Chenxi Liu", "**Yu-Siang Wang**", "Weichao Qiu", "Lingxi Xie", "Yu-Wing Tai", "Chi Keung Tang", "Alan L. Yuille"]
+authors = ["**Yu-Siang Wang\***", "Hung-Ting Su\*", "Chen-Hsi Chang", "Zhe-Yu Liu", " Winston H. Hsu"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "*CVPR (Oral)*"
+publication_short = "*ICASSP*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -36,8 +36,8 @@ selected = true
 #   projects = [""]
 
 # Links (optional).
-url_pdf = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Adversarial_Attacks_Beyond_the_Image_Space_CVPR_2019_paper.pdf"
-url_preprint = "https://arxiv.org/abs/1711.07183"
+url_pdf = ""
+url_preprint = "https://arxiv.org/pdf/1907.03049.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
